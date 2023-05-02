@@ -1,0 +1,29 @@
+body {
+    background-color: darkslategrey;
+    color: azure;
+    text-rendering: auto;
+    font-family: cursive;
+    font-size: 10pt;
+    text-align: justify;
+}
+
+img { 
+   outline: ivory; 
+   shape-rendering: geometricPrecision;
+   outline-style: ridge;
+}
+
+h1 {
+    background-color: azure;
+    color: darkslategray;
+    text-align: center;
+    text-shadow: azure;
+    }
+h3 {
+    text-decoration: wavy;
+}
+
+h4 {
+    text-decoration: underline;
+}
+
